@@ -1,0 +1,8 @@
+site_name: LiGHT documentation
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Cluster Access: cluster.md
+  - About: about.md
+
